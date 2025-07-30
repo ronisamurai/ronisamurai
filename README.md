@@ -11,12 +11,9 @@ Sou autodidata, extremamente curioso e gosto de aprender criando.
 
 Atualmente, estudo lógica de programação com **Portugol Studio** e estou sempre em busca de novos desafios!
 
----
-
 ## 🛠️ Ferramentas que uso
 
 - 💡 **Portugol Studio** `v2.7.5`  
----
 
 ## 🌐 Redes sociais
 
