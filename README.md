@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 Roney | Estudante de Programação</h2>
 
 <p align="center">
-  <img src="perfil.gif" width="120" style="border-radius: 50%;" alt="Foto de perfil" />
+  <img src="perfil.gif" width="220" style="border-radius: 50%;" alt="Foto de perfil" />
 </p>
 
 ---
