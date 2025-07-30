@@ -1,4 +1,4 @@
-<h2 align="center">👨‍💻 Roney | Estudante de Programação</h2>
+<h2 align="center">👨‍💻 [seu nome] | Estudante de Programação</h2>
 
 <p align="center">
   <img src="perfil.gif" width="220" style="border-radius: 50%;" alt="Foto de perfil" />
@@ -6,7 +6,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Sou o **Roney**, estudante apaixonado por programação.  
+Olá! Sou o **[seu nome]**, estudante apaixonado por programação.  
 Sou autodidata, extremamente curioso e gosto de aprender criando.
 
 Atualmente, estudo lógica de programação com **Portugol Studio** e estou sempre em busca de novos desafios!
