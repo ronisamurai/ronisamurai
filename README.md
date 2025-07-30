@@ -18,8 +18,6 @@ Atualmente, estudo lógica de programação com **Portugol Studio** e estou semp
 ## 🛠️ Ferramentas que uso
 
 - 💡 **Portugol Studio** `v2.7.5`  
-  <img src="https://raw.githubusercontent.com/wiki/UNIVALI-LITE/Portugol-Studio/images/logo.png" width="40" alt="Ícone do Portugol" />
-
 ---
 
 ## 🌐 Redes sociais
