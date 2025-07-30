@@ -4,8 +4,6 @@
   <img src="perfil.gif" width="220" style="border-radius: 50%;" alt="Foto de perfil" />
 </p>
 
----
-
 ## 📌 Sobre mim
 
 Olá! Sou o **Roney**, estudante apaixonado por programação.  
